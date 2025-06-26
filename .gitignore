@@ -1,0 +1,7 @@
+snpe-*
+android-ndk-*
+*.zip
+*.raw
+output_test*
+raw_output
+
